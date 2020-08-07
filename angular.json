@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "nasa-api-services"
+    }
+  },
+  "defaultProject": "nasa-api-services",
+  "cli": {
+    "analytics": false
+  }
 }
